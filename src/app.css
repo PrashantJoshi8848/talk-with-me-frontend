@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+  height: 100vh;
+  display: flex;
+  background-image: url("./abstract-pattern-background-blue-burst-light-glitter-bubble-glow-sparkle-blue-bokeh-blur-background-texture-abstract-179481062.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(136, 136, 136, 0.281);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
